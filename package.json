@@ -1,0 +1,8 @@
+{
+  "name": "generate-movie-list",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "generate": "node main.js > moviePosterList.js"
+  }
+}
